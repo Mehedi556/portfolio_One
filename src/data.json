@@ -1,0 +1,23 @@
+[
+    {
+      "_id": "1",
+      "picture": "https://media.istockphoto.com/id/1289964653/photo/red-white-and-blue-parked-trucks-lined-up-at-a-truck-stop.jpg?b=1&s=170667a&w=0&k=20&c=vd58lC05I4_aVVi-PvLAFOS5FspTrxME2JHvcYkNnGg=",
+      "name": "TRUCKS MART",
+      "about": "A website for buying used trucks from expensive brands.",
+      "live": "https://salesmart-ad1a8.web.app/"
+    },
+    {
+      "_id": "2",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QN1DRVdzyjRoTHg1KqoKaVVillKOxMAoMGXurMwLmnkxWGyu0xMm4S-4eOqBuWuUOGk&usqp=CAU",
+      "name": "RENTALCO",
+      "about": "A website for online rental car services",
+      "live": "https://taxseco-a4123.web.app/"
+    },
+    {
+      "_id": "3",
+      "picture": "https://img.freepik.com/premium-photo/tech-devices-icons-connected-digital-planet-earth_117023-449.jpg?w=2000",
+      "name": "TECH TOOR",
+      "about": "It's a learning platform-based website.",
+      "live": "https://tech-toor.web.app/"
+    }
+  ]
