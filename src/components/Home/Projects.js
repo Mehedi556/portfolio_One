@@ -6,8 +6,8 @@ const Projects = () => {
     return (
         <div>
 
-                <div>
-                    <h2>My Projects</h2>
+                <div className='pt-16'>
+                <h1 className='' style={{fontSize:"3.5rem",fontWeight:"bold",color:"#5C7F10"}}>My Projects</h1>
                 </div>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 my-16'>
